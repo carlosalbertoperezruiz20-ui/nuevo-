@@ -7,7 +7,8 @@ Imports System.Windows
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"
 
-    <meta name="description" content="Portafolio de Carlos Pérez, desarrollador frontend especializado en React, HTML5, CSS3 y JavaScript."/>
+    <meta name="description" content="Portafolio de Carlos Pérez, desarrollador frontend especializado en React, HTML5, CSS3 y JavaScript."/>![Imagen de WhatsApp 2025-10-12 a las 09 41 55_87057f65](https://github.com/user-attachments/assets/3e0f5f43-e04b-4775-a5f4-b1786b779343)
+
     <meta name="keywords" content="Carlos Pérez, frontend, React, HTML5, CSS3, JavaScript, portafolio"/>
     <meta name="author" content="Carlos Pérez"/>
     <title>Carlos Pérez | Frontend Developer</title>
